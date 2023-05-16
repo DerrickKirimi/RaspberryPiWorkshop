@@ -1,0 +1,6 @@
+
+Web	https://io.adafruit.com/Dr3co/feeds/temperature
+API	https://io.adafruit.com/api/v2/Dr3co/feeds/temperature
+MQTT
+by Key	Dr3co/feeds/temperature
+Key : aio_rJAo04Q8J6tUsRPdocvymy6os5Lz
